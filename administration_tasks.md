@@ -1,4 +1,4 @@
-```
+```shell
 # 1
 $ fdisk /dev/sda
 $ n p 3 default +300M w
