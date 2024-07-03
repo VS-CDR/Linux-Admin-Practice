@@ -35,3 +35,8 @@ chown u1:u1 /home/test2
 cp /bin/nano /home/test3/nano
 chown u1:u1 /home/test3/nano
 chmod u+s /home/test3/nano
+# 13
+mkdir test4
+touch test4/secret_file
+chmod a=x test4
+chmod a=r test4/secret_file
