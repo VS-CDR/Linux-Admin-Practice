@@ -1,2 +1,2 @@
-# Yandex-ITMO_Studcamp_Practice
-This repository contatins my solutions for practice tasks
+# Linux-Admin-Practice
+This repository contatins my solutions for practice tasks on Yandex-ITMO Studcamp
